@@ -1,0 +1,53 @@
+IBG 01-07-19 Lecture Notes  
+
+Everyone should on Piazza contact staff phone or email if you are not.
+
+Take notes from start of lecture, it's used to judge engagment
+
+Everyone should have received the Install Android Studio homework from
+the first class.
+
+Post everythhing on Piazza 4 to 5 posts a day is expected.
+    Frame problem as simply as possible and post it. 
+    Do independent research before posting and share that
+    
+Software doesn't work the first time, and you fix it, "failing forward"
+    learning to do this is a skill set that you learn.
+    
+When an issue arises
+ 1) Research
+ 2) Post to Piazza
+ 3) Research some more
+
+Class is 30 minutes lecture, than execution of assignment or a significant
+portion thereof.  
+
+Piazza has metrics which are correlative with people getting work that 
+entails more responsibility and pay.  The instructors are tracking lots 
+of metrics, from posting, to Thanking, to replying to others questions,
+etc. 
+
+SDLC - Software Development Lifecycle
+A framework that describes activities at each stage of a software 
+development project.  (Memorize this)
+
+SDLC Phases
+1) Requirements Gathering and Analysis
+	What it needs to be able to do
+2) Design
+    Layout of components of application, look and feel, how the problems
+    will be solved.  A documented plan.
+3) Development
+	Actually writing the code implementing the design.
+4) Testing
+	Making sure the parts work like they're supposed to, and together. 
+5) Implmentation
+	Puting code onto the server or releasing it, for people to really use.
+6) Maintenance
+	Fix bugs, add features, improve performance
+	
+A) Go through SDLC Document
+B) Research and send synopsis of two primary SDLC models
+C) Write a report on the differences between the two primary SDLC models.
+
+

@@ -1,0 +1,20 @@
+1) Agile vs Waterfall are the only two SDLC types we need to worry about. 
+Agile we'll iteratively build your application showing them progress in 
+regular, short, intervals.  This allows them to easily identify if 
+requiremnts are being met, increasing their chance of retaining you to |
+build software projects. 
+
+Allows requirments and associated design changes to added at any time. 
+
+Customer gets to discover what they want, as they basic implementations
+of what they asked for produced.
+
+2) Waterfall you are building with the end in mind in a linear fashion, 
+with a well defined map of how you intend to get there.  
+
+Assumes all requirements are known up front, with the expectation that
+there will be no requirement changes before delivery, because the 
+customer knows what they want for real. 
+
+Homework. create a github account, add homework and notes to it. 
+Send links to enrollment@ibgsoftware.com.
