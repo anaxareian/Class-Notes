@@ -1,0 +1,53 @@
+IBG Lecture Notes 2018-01-14
+
+Java most used software language in the world.
+
+Javascript used more by Start Ups 
+
+Finance, Insurance, Healthcare, starting to move to Javascript 
+and React Developers
+
+Unity course is the Java course IBG's been referring to. 
+
+It's important to use Piazza regularly. IBG is tracking engagement
+and participation that way.  Try to average 5 contributions to 
+Piazza per day.  Ask questions.  The goal is to  produce answers and 
+ask questions.  This helps you to get in the mindset of doing 
+support as a part of a professional development job.  In most 
+professional environments, you will be both a producer and consumer
+of questions and answers. 
+
+Anyone having issues finding anything in Piazza? 
+Need SDLC slides, because some form of SDLC is a part of all 
+organizations. 
+
+Planning for software development is analgous to building a skyscraper. 
+
+In most environments production will be Agile based, with many short
+sprints, in which the customer looks at what you've made after each 
+iteration.  Most environments today are using some sort of Agile 
+Development.  
+
+Waterfall, no one expects to see features mid way.  Agile uses an
+adaptive approach, developers divide up work, work hard for 1 to 2 
+weeks, and stop to show customer results after each sprint. 
+
+Customer sees results of each sprint and gives significant feedback 
+for each sprint.  Code either works, or doesn't when customers look
+at it after each sprint. 
+
+Pros and Cons of Agile processes for development vs Waterfall methods. 
+
+Explain in your own words what each element of the Agile pros and cons
+means as homework.  Essentially add annotations to the pros and cons 
+based on understanding or research online. At least two sentences per
+bullet point. 
+
+Question, how much flexibility is there in terms of deadlines.  It 
+depends, sometimes they're flexible, sometimes they're not.  Hardline
+deadlines often require extra time commitment to meet.  It is company
+and situational development
+
+
+
+
