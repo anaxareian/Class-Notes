@@ -1,0 +1,160 @@
+Pros and Cons of Agile Development from Tutorials Point "SDLC -
+Agile Model" post:  
+
+    https://www.tutorialspoint.com/sdlc/sdlc_agile_model.htm
+
+The advantages of the Agile Model are as follows −
+
+    Is a very realistic approach to software development.
+		It is realistic because the reality is customers really have 
+		a good grasp on their requirements.  Agile principles allow 
+		them to experience an approximation of what they think they 
+		want quickly, so they can learn from experience if it is a
+		actually what they want. 
+
+    Promotes teamwork and cross training.
+		Agile models, especially Srum, promote working in cross 
+		functional teams that include users, developers and UX
+		graphic designer experts.  Everyone is encouraged to help
+		with whatever needs to be done in the interest of completing
+		a sprint, if at all possible.  This allows everyone to 
+		contribute to all non highly specialized activities, or
+		where they have the skills regardless. It also means that 
+		a customer representative is intimately aware of what is 
+		being worked on during a sprint. 
+
+    Functionality can be developed rapidly and demonstrated.
+		Because Agile processes typically included short sprints of 
+		1 - 4 weeks that are focused on producing a highly prioritized
+		user interaction, customers are able to test that functionality
+		at the end of each sprint.  This gives them the opportunity to
+		learn from direct experience if the user experience and 
+		functionality is really what they are looking for. 
+
+    Resource requirements are minimum.
+		Compared to a Waterfall based method, resource requirements 
+		are a minimum.  An Agile Team is relatively small, usually no
+		more than 9 members, and they work to implement minimum useful,
+		but highly prioritized,requirements each sprint. 
+
+    Suitable for fixed or changing requirements
+		Agile still succeeds when requirements are fixed, because working
+		approximations of the ultimately desired product are produced as
+		a part of each sprint.  Each sprint should come closer and closer
+		to the final end product the customer wants.  When requirments
+		change, sprints give the ability to change direcitons quickly 
+		by providing feedback sooner rather than later, because a sprint
+		is rarely ever more than four weeks, and sometimes as short as 
+		one week. 
+
+    Delivers early partial working solutions.
+		Agile processes focus on giving customers experience of their 
+		high prioritized use cases as fast as possible.   This means 
+		that each sprint ends with a software product that can be used
+		and experienced for more concrete feedback on whether it is 
+		helpful, and moving towards or away from a desired solution.
+
+    Good model for environments that change steadily.
+		Because sprints are so quick, Agile processes alow work to 
+		easilty be adapted to the changing needs of any work environment.
+		Even in environment that change really fast, by using short 
+		sprints of only a week, Agile processes allow development to 
+		shift literally within a week of discovering new requirements.
+
+    Minimal rules, documentation easily employed.
+		Agile processes support people making a vision real vs. trying
+		to highly specify requirements or design decisions that must be
+		rigidly adhered to.  This means that documentation is created to
+		support communication between people and must be easy to generate
+		and consume.  This principle is so important that a whole process
+		has been developed around simple easy to create and understand
+		communication called a kanban board, the Kanban Method.
+
+    Enables concurrent development and delivery within an overall planned context.
+
+    Little or no planning required.
+		Compared to Waterfall based methods, there is little or no 
+		planning for major phases of software development, as focus is
+		placed on interatively producing working pieces of software that
+		satisfy expressed requirements in a short timeframe.  There is 
+		still planning around what are the prioritites, and when to
+		try and accomplish them. 
+
+    Easy to manage.
+		Because teams are realively small, with specific high priority
+		goals that can be made real in a short period of time, Agile 
+		processes are "easier" to manage day to day.  However, there 
+		are fewer work products for managers to track that work is being
+		done, except for witnessing the realized product that is the
+		end result of each sprint. 
+
+    Gives flexibility to developers.
+		Developers are allowed to develop and learn by implementing 
+		a working solution as fast as possible.  Iterative short 
+		sprints allow developers to develop as they need to get a 
+		working product, instead of requiring highly developed specific
+		design for a theoretically fully specified set of requirements. 
+		Agile processes focus on producing functional software, however
+		you get there, and does not worry about the production of 
+		work products to get to functional software. 
+
+The disadvantages of the Agile Model are as follows −
+
+    Not suitable for handling complex dependencies.
+		Agile is challenged not only by complex dependencies, but by
+		any dependencies that are not a part of the team.  With short
+		deadlines for a sprint, complex dependencies which take time 
+		to understand, or dependencies that are not controlled by the
+		team can take siginificant time away from the team actually 
+		producing a working product for their sprint. 
+
+    More risk of sustainability, maintainability and extensibility.
+		Truly agile processes support people and are sustainable by 
+		definition.  However, a culture of sprinting can lead to 
+		exceeding high expectations for short time frames.  This time
+		pressure can also lead to producing working results that are 
+		harder to maintin and/or extend beacuse of choices maded to 
+		generate a functional deliverable.  Without solid software
+		design experience, it is easy to produce functional code that
+		is poorly designed. 
+
+    An overall plan, an agile leader and agile PM practice is a must 
+    without which it will not work.
+		Because Agile processes attempt to deliver working functionality 
+		very quickly, and can have external dependencies, it is a requirement
+		that they have leadership, and an Agile cognizant PM who function
+		to help the team just get stuff done.  This is in distinction to 
+		Waterfall management which seeks work products to show evidence 
+		of work, with no expectation of working software in the near future. 
+		(At least not until near the end of a planned Implementation phase.)
+
+    Strict delivery management dictates the scope, functionality to be 
+    delivered, and adjustments to meet the deadlines.
+		Because sprints are so short, it is a requirment that priorities
+		be clearly expressed and understandings of what can actually be 
+		produced in the sprint timeframe understood.  With a focus on 
+		delivering a working software product at the end of each sprint
+		there must be a strong understanding what is realistically possibe,
+		and satisfies incremental progress towords state requirements.
+
+    Depends heavily on customer interaction, so if customer is not clear, 
+    team can be driven in the wrong direction.
+		Only the customer knows what their priorities are, and that 
+		knowledge is germane to producing a result that they will find
+		useful.  Therefore the customer, or a proxy who knows their 
+		needs and interests well, are a required part of an Agile process.
+
+    There is a very high individual dependency, since there is minimum 
+    documentation generated.
+		Because Agile processes are focused around people and producing
+		working software work products, their success is highly dependent
+		on the contributions of eack individual and the teams ability to
+		communicate in person. Every team member counts! 
+
+    Transfer of technology to new team members may be quite challenging 
+    due to lack of documentation.
+		This dependency on individuals, and the lack of specific detailed
+		documentation makes it hard to share knowledge and information with
+		new members who did not live through the process of earlier sprints.
+		This makes it invaluable for Agile Teams to use tools hat archive
+		their communications, chats, group walls, and videos of meetings. 
