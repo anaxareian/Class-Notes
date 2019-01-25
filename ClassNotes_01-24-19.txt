@@ -1,0 +1,50 @@
+Update piazza, with snapshots in piazza.  
+
+We spoke before about benefits of Agile. 
+
+Today we are talking about Android, and the benefits of android.
+
+Complete all assignments in resources.  
+
+Two hours per day is expected for class. 
+
+Udemy courses are valuable because it gives you all the 
+exposure to be competent with your skills in a programming domain. 
+
+They know what works from experience.  
+
+Has anyone got to the Instagram clone yet?  
+
+You can do Weather App with another API.
+
+Just reviewing course requirements.
+
+Instagram teaches a lot about Android development. 
+
+Android is based on open source Linux with over 100,000,000 
+lines of code.  
+
+If we keep pushing and working towards a better understanding. 
+
+Android from Open Handset Alliance started by Google. 
+
+Beautiful UI.  Not everyone is running the latest Android, so
+don't use the latest bleeding edge of Android, or you will 
+exclude a bunch of people. 
+
+Android includes, DB, SMS/Messaging, Touch, Slide, Google cloud, 
+
+The prerequisites for the Android environment are the latest JDK ,
+from Oracle, Android Studio, Android Virtual Machines, 
+
+Android Project Structure
+
+Homework, define Android Project Structure, and what is in each of 
+the standard folders. 
+
+
+Applications Components uploaded to Piazza.
+
+Define all the words in the screen shot uploaded. 
+
+
