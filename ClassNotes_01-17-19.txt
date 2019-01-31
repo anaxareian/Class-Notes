@@ -1,0 +1,106 @@
+We should have been working on Java on Agile, as well as the list
+of assingments in Piazza.  
+
+Not everyone is engaging.  You have to let people know where you are,
+show proof of accomplishments, and ask for, or give help, as you need
+it, or can provide.
+
+Memorize the SDLC phases  of software development.  Most small 
+companies are 100% Agile, big companies are hybrid and tend to 
+have aspects of both Agile and Waterfall.  
+
+#Java Object Oriented Programming Concepts
+Object Oriented programming is the primary paradigm right now. 
+ 
+Java is an OO programming language.  When building an OO application,
+you have to think about your object model.  One often starts with 
+diagrams of boxes and flows for objects and information.  
+
+An object model is a set of classes that interact together to provide
+the functionality your program is offering.  One should always do a 
+design first, so that they are not coding ad hoc.
+
+The key concepts of OO programming are Intheritance, Encapsulation, 
+Abstraction, and Polymorphism.  Learn the definition of these terms
+vis-a-vis OO programming.  This is part of the assignment.
+
+##Abstaction - objects are black boxes that provide services via 
+methods, whether retrieving ths state of the object, or providing a
+functional service. (Hide details)
+
+##Encapsulation - the state of an object is kept private and   access to
+its internal state is provided through public methods.  (Protecting 
+internal state.)
+
+##Inheritance, - classes can reuse the state and features of a parent
+class and then only add, or change what is different from the parent. 
+(Reuse)
+
+#Polymorphism - the sane method or operator can provide different 
+functionality depending on the class of the receiver of the method
+call, or expression operator. 
+
+Explain in your own words how the four concepts of Abstraction, 
+Encapsulation, Inheritance, and Polymorphis apply to Java.
+
+====================================================================
+
+# Homework 2019-01-17: 
+
+**Abstraction** is about hiding implementation details of something while
+still providing access to essential features/services that are 
+required by a user/developer working at a particular level of 
+abstraction.  
+
+An example in Java would be System.out.  It provides a way for a 
+developler to send data to the default output console, without 
+the developer having to know any of the details of how to write to
+any specific console.  In some cases it would end up being stdout
+in a UNIX shell, in other cases it could end up being a logging 
+console, and in other cases it could be to a serial line connected
+to the computer. Although the details of sending data to these 
+different devices is different, a programmer doesn't have to think
+about the low level details, because they've been 'abstracted' away. 
+S/he just has a default 'out' that they can meaningfully send data to. 
+
+
+**Encapsulation** is about objects having a private and public sense
+of identity.  Objects are 'black boxes' that provide services, including
+sharing some of their state information.  Access to state or services
+is only through public methods which provide this access.  In pure 
+OO programming there is no access to state or services, except through 
+invoking a method on some object which is otherwise opaque to the user. 
+Encapsulation allows the implementation to change, and as long as the
+public methods stay the same and provide the same responses, users of
+the class of objects are completely unaffected by those 'encapsulated'
+internal changes. 
+
+In Java the String class creates objects that encapsulate the represen-
+tation of a string.  Users have access to a series of characters, but 
+the actual implementation of that series is unknown, and in Jave in 
+fact changes depending on how the String object is created and used. 
+
+**Inheritance** is allowing all the attributes and methods of a class
+to be reused by a descendant class which by relying on it's inheritance,
+only needs to change where it is different from one of it's parent 
+classes.  This includes adding functionality that may not exist in any
+parent.  
+
+Java is a single inheritance OO language, meaning all classes inherit
+from. one, and only one, parent.  In Java all objects have as their
+last parent, the object Object.  This means that all Java objects 
+have an implementation of methods for   clone(), hashCode(), toString(),
+etc.  Of course, these methods are likely to be rewritten specific to
+a particular subclass, but any object will at least have Objects 
+implementation of these and other methods on Object. 
+
+**Polymorphism** is the overloading of the semantics of a method name, 
+or operator, depending on the class of the object receiving the 
+invocation.  
+
+Simple examples in Java are the '+' operator and the equals() method.
+The '+' operator is used for additon amongs number types, but for 
+concatenation between Strings.  So, 5 + 3 => 8, where as "5" + "3" => 
+"53". 
+
+
