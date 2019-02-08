@@ -1,0 +1,55 @@
+Lecture 1 for February 2019-02-04
+
+
+Lecture 2 for Februrary 2019-02-07
+Welcome Back
+
+Is everyone in the Piazza?  
+
+Status Reports
+
+
+Software Development Life Cycle
+
+In professional environments the structrured framework for building
+software is called an SDLC, Software Development Life Cycle. 
+
+It's a lot of work, even for small projects.  
+
+SDLC: Reuirements, Design, Development, Testing & Maintenance. 
+
+Every stage of the SDLC has roles specific to each stage for some 
+businesses.  
+
+Which SDLC to use is important.  The two primary methodologies are 
+Agile and Waterfall.  There are more than these two, but these two
+are the most widely used.  
+
+SDLC are not fluff, they are the meat and potatoes of any software
+development organization.
+
+It provides the basis of project planning
+It includes a set of activities, techologies, and deliverables for 
+each different kind of SDLC model. 
+
+With a well executed SDLC you decreas risk, and improve client 
+relations. 
+
+In the Waterfall Model, there is a linear progression from 
+Analysis, Design, Development, Testing, Deployment & Maintenance.
+
+The Waterfall model is more brittle, and changes in scope will tend
+to be high risk and cost prohibitive. 
+
+SDLCs started with the Waterfall mdeol. 
+
+Watefall is great when requirements are very well known, the producxt 
+definition is stable
+
+The Agile model breaks work down into sprints.  With tight cycles of 
+work with breaks.  When working with Agile models, we get enough done
+so that we can show the customer soemthintg evryweek.  
+
+Most companies these days use Agile methods of th
+
+Homework: Laundry List comparing Agile and Waterfall SDLCs. 
